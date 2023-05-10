@@ -1,0 +1,11 @@
+.btnContainer {
+  padding-bottom: 1.2em;
+}
+
+.btn {
+  border-radius: 7px;
+  background-color: purple;
+  color: white;
+  height: 2em;
+  font-size: 1.1em;
+}
